@@ -69,5 +69,9 @@ export const DashboardContent = () => {
         </div>
 
         <DashboardTransaction/>
+
+        <div className="p-2 text-center text-[#4D4D4D]">Made with ❤️ by
+            <a className="pl-2 text-lg underline font-bold" href="https://github.com/ashish98joshi">Ashish Joshi</a>
+        </div>
     </div>
 }
